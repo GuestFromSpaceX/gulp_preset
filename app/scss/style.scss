@@ -1,0 +1,14 @@
+@import "../../node_modules/swiper/swiper-bundle";
+
+.main {
+    padding: 0;
+    &__inner {
+        margin: 0;
+        border-radius: 1px;
+    }
+}
+
+body {
+    background-color: bisque;
+    padding: 0;
+}
